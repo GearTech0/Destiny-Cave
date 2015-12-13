@@ -1,0 +1,1 @@
+//generatedungeon(width, height)

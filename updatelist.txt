@@ -1,0 +1,25 @@
+**************************************
+*                                    *
+*	             UPDATES             *
+*                                    *
+**************************************
+December 3, 2015:
+	basic gameplay has been created. Running and basic attacking.
+	TO-DO:
+		=New Items
+		=Enemies
+		=Basic Dungeon
+		=Better Graphics*
+		=Dungeon Generator*
+December 4, 2015:
+	arrow has been programmed.
+	TO-DO:
+		=More Items
+		=Enemies
+		=Basic Dungeon
+		=Better Graphics*
+		=Dungeon Generator*
+December 6, 2015
+	knockback
+	TO-DO:
+		=look back at previous day
